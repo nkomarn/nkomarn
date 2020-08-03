@@ -5,6 +5,8 @@
 
 📫 You can reach me at any time on Discord! I'm `Mykyta#0001` over there.
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkomarn)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **nkomarn/nkomarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
