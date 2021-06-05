@@ -1,9 +1,8 @@
 ## 🌠 Hey there, I'm Mykyta.
 ### And I like to create random, useless, and quite niche stuff.
 
-🔭 I'm currently working on [Loom](https://github.com/loomdev), a next-generation Minecraft server software that aims to succeed projects like Spigot. Check it out- contributions are welcome and much appreciated!
-
 📫 You can reach me at any time on Discord! I'm `Mykyta#0001` over there.
+🎞 Check out my [YouTube channel](https://www.youtube.com/channel/UCZEtkJnvRugzY0FXUUb2r3A) for random clips of what I'm doing!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkomarn)](https://github.com/anuraghazra/github-readme-stats)
 
