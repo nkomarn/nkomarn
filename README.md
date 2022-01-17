@@ -1,22 +1,6 @@
-## 🌠 Hey there, I'm Mykyta.
-### And I like to create random, useless, and quite niche stuff.
+### 🍕 hi there, i'm mykyta.
+i create tons of niche yet exciting things, most of which are minecraft-related in some shape, way, or form.
 
-📫 You can reach me at any time on Discord! I'm `Mykyta#0001` over there.  
-🎞 Check out my [YouTube channel](https://www.youtube.com/channel/UCZEtkJnvRugzY0FXUUb2r3A) for random clips of what I'm doing!
+check out my minecraft server at [`firestartermc.com`](https://firestartermc.com), or feel free to reach out to me on discord @ `Mykyta#0001` (i'm almost always online)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkomarn)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**nkomarn/nkomarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i find myself mostly doing backend stuff using java, but i've also done my fair share of web stuff and frontends.
